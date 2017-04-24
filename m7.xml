@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <m7>
-            <Filename>RR-N-v5.8.3-20170420-m7-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170423-m7-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=529152257862720791</RomUrl>
+                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=745425885120726716</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	    <ChangelogUrl
+	          <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-	<m7>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+        <m7>
     </Stable>
 </SlimOTA>
