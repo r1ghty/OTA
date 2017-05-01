@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <m7>
-            <Filename>RR-N-v5.8.3-20170423-m7-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170430-m7-Weekly.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=745425885120726716</RomUrl>
+                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=745425885120728296</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
