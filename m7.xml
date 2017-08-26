@@ -15,6 +15,10 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+              <ChangelogUrl
+                id="xda_link"
+                title="XDA Thread"
+                description="Open XDA Thread">https://forum.xda-developers.com/htc-one/development/rom-resurrection-remix-n-v5-8-0-t3509485</ChangelogUrl>
         <m7>
     </Stable>
 </SlimOTA>
