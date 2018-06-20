@@ -20,24 +20,5 @@
                 title="XDA Thread"
                 description="Open XDA Thread">https://forum.xda-developers.com/htc-one/development/rom-resurrection-remix-n-v5-8-0-t3509485</ChangelogUrl>
         <m7>
-        <m7-oreo>
-            <Filename></Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Latest ResurrectionRemix build"></RomUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	          <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-              <ChangelogUrl
-                id="xda_link"
-                title="XDA Thread"
-                description="Open XDA Thread"></ChangelogUrl>
-        <m7-oreo>
     </Stable>
 </SlimOTA>
